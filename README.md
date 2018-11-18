@@ -3,7 +3,7 @@ My own homemade applications for the PortableApps Suite!
 
 All original applications belong to their respective owners.
 ## [Piskel](https://piskelapp.com) Portable
-An easy-to-use sprite & pixel-art editor (by [the Piskel Team](https://github.com/piskelapp))
+An easy-to-use sprite & pixel-art editor (by [Julian Descottes](https://github.com/piskelapp))
 
 Version: 0.14.0
 ## [Shimeji-ee](https://kilkakon.com/shimeji) Portable
